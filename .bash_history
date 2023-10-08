@@ -99,3 +99,4 @@ docker-compose up
 docker stop
 docker start
 docker restart
+sudo -s
